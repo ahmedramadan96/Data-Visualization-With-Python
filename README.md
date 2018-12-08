@@ -1,6 +1,6 @@
 # Data Visualization with Python
 
-After finishing [data visualization with python](https://www.coursera.org/learn/python-for-data-visualization)course that took place  Oct in 2018 at coursera platform by IBM , I decided to take summary of the whole course to help me to remember and to anyone who would like to know about it. I've skipped some contents in some lectures as it wasn't important to me. 
+After finishing [data visualization with python](https://www.coursera.org/learn/python-for-data-visualization) course that took place  Oct in 2018 at coursera platform by IBM , I decided to take summary of the whole course to help me to remember and to anyone who would like to know about it. I've skipped some contents in some lectures as it wasn't important to me. 
 ## Table of contents
 
 * [Data Visualization with Python](#data-visualization-with-python)
