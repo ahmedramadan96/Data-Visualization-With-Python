@@ -141,5 +141,5 @@ Thanks for:
     - [Data visualization Blog ](http://cican17.com/data-visualization-with-python/)
 
 
-- These notes was made by [Ahmed Ramadan](mailto:ar1521@fayoum.edu.ed)@2018
+- These notes was made by [Ahmed Ramadan](mailto:ary00@fayoum.edu.ed)@2018
 
