@@ -26,3 +26,4 @@
 5. A bubble plot is a variation of the scatter plot that displays one dimension of data..
 
     - Ans: True.
+    edit - It's ans should be False as "Bubble Plot displays three dimensions of data"
